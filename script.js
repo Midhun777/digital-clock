@@ -20,4 +20,4 @@ function displayTime() {
 	document.getElementById('minutes').innerHTML = min;
 	document.getElementById('seconds').innerHTML = sec;
 }
-setInterval(displayTime, 10);
+setInterval(displayTime, 99);
