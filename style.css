@@ -1,0 +1,20 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+	font-weight: bold;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 170%;
+}
+
+#session {
+	color: #FF0000;
+}
